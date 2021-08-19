@@ -9,3 +9,4 @@ Things to Note:
 - Shields are still in the game
 - There are no visual changes
 - No 1.8 blocking
+- Strength is not calculated
